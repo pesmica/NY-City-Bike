@@ -1,4 +1,4 @@
-# NY-Citi-Bike
+# NY-City-Bike
 
 This project was the analysis the public dataset from the New York Citibike. The dataset can be found on https://www.citibikenyc.com/ or 
 on BigQuery. The dataset consists the two tables: Citibike_station and Citibike_trips.
